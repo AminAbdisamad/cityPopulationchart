@@ -1,6 +1,6 @@
 # Population by city
 
-A simple program that displays the most populated cities in somalia.
+A simple JS program that displays the most populated cities in somalia.
 I have used apexcharts API to display it. the sample data I used was published on world population review website.
 
 API <a href="https://apexcharts.com/">ApexCharts</a>
