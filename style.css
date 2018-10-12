@@ -1,0 +1,9 @@
+body {
+  font-display: helvetica, arial;
+}
+.container {
+  margin: 70px auto;
+  overflow: hidden;
+  width: 85%;
+  text-align: center;
+}
